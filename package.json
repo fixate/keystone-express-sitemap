@@ -1,6 +1,6 @@
 {
-  "name": "keystone-express-sitemap",
-  "version": "1.2.0",
+  "name": "fixate-keystone-express-sitemap",
+  "version": "1.2.0-fixate.1",
   "description": "Dynamic sitemap generation for applications built on KeystoneJS",
   "main": "index.js",
   "scripts": {
@@ -14,8 +14,8 @@
     "express-sitemap": "^1.5.4",
     "underscore": "^1.8.3"
   },
-  "repository" : {
-    "type" : "git",
-    "url" : "https://github.com/GenomeUS/keystone-express-sitemap.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GenomeUS/keystone-express-sitemap.git"
   }
 }

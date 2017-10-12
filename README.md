@@ -2,6 +2,10 @@
 
 > Dynamic sitemap generation for applications built on KeystoneJS
 
+## Fixate CHANGELOG
+
+* Allow route to be different from list by adding a map to options
+
 ## Introduction
 
 keystone-sitemap allows you to set up your [KeystoneJS](http://keystonejs.com/) app to return a dynamic sitemap.xml file that is aware of all database-driven content within your site.
